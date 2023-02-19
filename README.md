@@ -1,5 +1,5 @@
 # GitHubPages-Leading-Slash-Examples
-Shows the differences in leading slashes in GitHub Pages
+Shows the differences in leading slashes in GitHub Pages.
 
 [See the GitHub Pages page for the example](https://nikouu.github.io/GitHubPages-Leading-Slash-Examples/)
 
